@@ -1,0 +1,12 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Test.Model.dll.config
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Test.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Test.Model.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Test.Model.dll.CodeAnalysisLog.xml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Test.Model.dll.lastcodeanalysissucceeded
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Infrastructure.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Infrastructure.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\bin\Debug\Tailspin.Model.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\obj\Debug\Tailspin.Test.Model.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\obj\Debug\Tailspin.Test.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Test.Model\obj\Debug\Tailspin.Test.Model.pdb

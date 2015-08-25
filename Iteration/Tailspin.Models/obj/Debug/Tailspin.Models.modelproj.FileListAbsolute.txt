@@ -1,0 +1,10 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.Infrastructure.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.SimpleSqlRepository.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.WebUpgraded.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\StructureMap.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.Infrastructure.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.Model.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.SimpleSqlRepository.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\bin\Debug\Tailspin.WebUpgraded.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.Models\obj\Debug\Tailspin.Models.modelprojResolveAssemblyReference.cache

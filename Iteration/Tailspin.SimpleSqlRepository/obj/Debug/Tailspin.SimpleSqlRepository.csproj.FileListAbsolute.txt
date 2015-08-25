@@ -1,0 +1,11 @@
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.SimpleSqlRepository.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.SimpleSqlRepository.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.SimpleSqlRepository.dll.CodeAnalysisLog.xml
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.SimpleSqlRepository.dll.lastcodeanalysissucceeded
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.Infrastructure.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.Model.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.Infrastructure.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\bin\Debug\Tailspin.Model.pdb
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\obj\Debug\Tailspin.SimpleSqlRepository.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\obj\Debug\Tailspin.SimpleSqlRepository.dll
+C:\Users\Brian\Source\Workspaces\Tailspin Toys\Development\Iteration 2\Tailspin.SimpleSqlRepository\obj\Debug\Tailspin.SimpleSqlRepository.pdb
